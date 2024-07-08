@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
-This repository features a Python implementation of the classic Tic-Tac-Toe game, showcasing interactive gameplay. Ideal for learning game development and Python programming fundamentals.
-
-This repository contains a Python implementation of the classic Tic-Tac-Toe game, implemented in a Jupyter Notebook. It features interactive gameplay for two players.
+This repository features a Python implementation of the classic Tic-Tac-Toe game, showcasing interactive gameplay. Ideal for learning game development and Python programming fundamentals, implemented in a Jupyter Notebook. It features interactive gameplay for two players.
 
 ## Features
 - Interactive Tic-Tac-Toe gameplay.
